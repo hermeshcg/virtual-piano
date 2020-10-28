@@ -1,2 +1,2 @@
 # Piano Virtual
-Projeto feito com intuito de aprender mais sobre a DOM
+You can acess the site and play some piano [here](https://virtual-piano-six.vercel.app)
